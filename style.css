@@ -1,0 +1,56 @@
+header {
+  border-bottom: 20px transparent solid;
+  display: flex;
+  border-image: url(/images/hr-img.png) 33% round;
+  margin: auto;
+}
+
+header div#hd2 {
+  display: inline-block;
+  position: left;
+  margin-left: 650px;
+  
+}
+
+body{
+  left: auto;
+  right: auto;
+  margin: 5pc;
+
+}
+
+#logo {
+ height: fit-content;
+}
+
+header h1 {
+  font-family: 'Dancing Script', cursive;
+}
+
+main{
+  display: inline-block;
+}
+
+button {
+  background-color: brown ;
+  color: white;
+  position: absolute;
+  left: auto;
+  right: 100px;=
+}
+  
+main {
+  border-bottom: 20px transparent solid;
+  display: flex;
+  border-image: url(/images/hr-img.png) 33% round;
+  margin: auto;
+
+}
+
+
+ footer #h3 {
+  position: absolute;
+  justify-content: center;
+
+ }
+  
